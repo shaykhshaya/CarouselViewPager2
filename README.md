@@ -4,6 +4,20 @@
 
 An easy to use Library which provides a Carousel View to the given list of Images on a Transparent Activity. The User need to submit the list of images only and this Library provides a Carousel View with different features.  
 
+![1](https://github.com/shaykhshaya/CarouselViewPager2/assets/119520622/f961d3e0-b68b-4117-99e4-4cf93b32e237)
+![2](https://github.com/shaykhshaya/CarouselViewPager2/assets/119520622/62896769-5f4a-411b-ab34-9becd5e8463d)
+![3](https://github.com/shaykhshaya/CarouselViewPager2/assets/119520622/0c822de0-afa5-4e08-84ab-505a7dc971e1)
+
+
+
+
+
+
+
+
+
+
+
 
 ## Features:
 
