@@ -2,7 +2,7 @@
 # Carousel View
 
 
-An easy to use Library which provides a Carousel View to the given list of Images on a Transparent Activity. The User need to submit the list of images only and this Library provides a Carousel View with different features.  
+An easy to use Library which provides a Carousel View to the given list of Images on a Transparent Activity. The User needs to submit the list of images only and this Library provides a Carousel View with different features.  
 
 ![1](https://github.com/shaykhshaya/CarouselViewPager2/assets/119520622/f961d3e0-b68b-4117-99e4-4cf93b32e237)
 ![2](https://github.com/shaykhshaya/CarouselViewPager2/assets/119520622/62896769-5f4a-411b-ab34-9becd5e8463d)
@@ -83,7 +83,7 @@ Carousel.with(this)
     .timeInterval(5000L) 
     .onItemCLick {
 
-        //Clicks are handled in onItemClick Section.
+        //User gets the whole Image Object.
 
     }  
     .start()
@@ -117,7 +117,7 @@ Carousel.with(this)
         .start()
 ```
 
-Customize **TIME INTERVAL**:
+- Customize **TIME INTERVAL**:
 
 ```kotlin
  Carousel.with(this)
@@ -126,7 +126,7 @@ Customize **TIME INTERVAL**:
         .start()
 ```
 
-Customize **AUTO SCROLL**:
+- Customize **AUTO SCROLL**:
 
 ```kotlin
   Carousel.with(this)
@@ -135,7 +135,7 @@ Customize **AUTO SCROLL**:
         .start()
 ```
 
-Customize the visibility of **OFF SCREEN SIDE IMAGES**:
+- Customize the visibility of **OFF SCREEN SIDE IMAGES**:
 
 ```kotlin
   Carousel.with(this)
@@ -144,7 +144,7 @@ Customize the visibility of **OFF SCREEN SIDE IMAGES**:
         .start()
 ```
 
-Customize the opacity (alpha) of **OFF SCREEN SIDE IMAGES**:
+- Customize the opacity (alpha) of **OFF SCREEN SIDE IMAGES**:
 
 ```kotlin
   Carousel.with(this)
